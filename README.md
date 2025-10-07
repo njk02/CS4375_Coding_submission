@@ -20,3 +20,5 @@ One example on running the code:
 ``--train_data training.json --val_data validation.json``
 
 "# CS4375_Coding_submission" 
+
+NOTE: I could not add the word_embedding.pkl file here for some reason, please add it to directory to run
